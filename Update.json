@@ -4,27 +4,27 @@
   "Update": [
     {
       "Name": "toolpvt.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/toolpvt.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/AutoSbSkBlue/main/toolpvt.jar",
       "Path": "\\"
     },
     {
       "Name": "pvtclient.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/pvtclient.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/AutoSbSkBlue/main/pvtclient.jar",
       "Path": "\\"
     },
     {
-      "Name": "TOOL_UPSM.exe",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/TOOL_UPSM.exe",
+      "Name": "TOOL_AUTO_SB.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/AutoSbSkBlue/main/TOOL_UPSM.exe",
       "Path": "\\"
     },
     {
       "Name": "iditem.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/iditem.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/AutoSbSkBlue/main/iditem.txt",
       "Path": "\\"
     },
     {
       "Name": "mapid.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpBlue/main/mapid.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/AutoSbSkBlue/main/mapid.txt",
       "Path": "\\"
     }
   ]
