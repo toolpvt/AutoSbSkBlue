@@ -1,6 +1,6 @@
 {
-  "Version": "5.0",
-  "Notification": "Fix MKN.",
+  "Version": "2.0",
+  "Notification": "Thêm Delay về khu sau khi giết boss",
   "Update": [
     {
       "Name": "toolpvt.jar",
